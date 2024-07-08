@@ -1,0 +1,1 @@
+# How-To-install-Pterodactyl-In-Oracle-Cloud
