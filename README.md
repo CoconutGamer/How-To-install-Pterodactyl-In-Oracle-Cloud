@@ -40,6 +40,10 @@ Save the file and exit the text editor.
 - In nano, press Ctrl+O, Enter then Ctrl+X.
 
 #### Step 4: Restarting SSH
+```
+sudo systemctl restart ssh
+
+```
 
 ### 2. Opening Ports in Ubuntu with firewalld
 firewalld is a complete firewall solution that dynamically manages the trust level of network connections and interfaces. Follow these steps to open ports.
